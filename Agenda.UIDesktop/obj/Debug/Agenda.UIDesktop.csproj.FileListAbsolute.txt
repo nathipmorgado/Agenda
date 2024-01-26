@@ -1,0 +1,10 @@
+C:\Users\natha\OneDrive\Área de Trabalho\Agenda2017\Agenda\Agenda.UIDesktop\bin\Debug\Agenda.UIDesktop.exe.config
+C:\Users\natha\OneDrive\Área de Trabalho\Agenda2017\Agenda\Agenda.UIDesktop\bin\Debug\Agenda.UIDesktop.exe
+C:\Users\natha\OneDrive\Área de Trabalho\Agenda2017\Agenda\Agenda.UIDesktop\bin\Debug\Agenda.UIDesktop.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\Agenda2017\Agenda\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.csprojAssemblyReference.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Agenda2017\Agenda\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.Properties.Resources.resources
+C:\Users\natha\OneDrive\Área de Trabalho\Agenda2017\Agenda\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.csproj.GenerateResource.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Agenda2017\Agenda\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Agenda2017\Agenda\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.exe
+C:\Users\natha\OneDrive\Área de Trabalho\Agenda2017\Agenda\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\Agenda2017\Agenda\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.Form1.resources
